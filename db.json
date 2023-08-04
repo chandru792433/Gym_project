@@ -1,0 +1,103 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Chandru",
+      "lastName": "B",
+      "email": "chandru@gmail.com",
+      "mobile": "973581588",
+      "height": 1.6,
+      "weight": 67,
+      "bmiResult": "",
+      "bmi": 0.39062499999999994,
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Toxic Fat reducton",
+        "Energy and Endurance"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-08-10T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "hshjjjhu",
+      "lastName": "chsggs",
+      "email": "chggysy",
+      "mobile": "6985585",
+      "height": 11,
+      "weight": 65,
+      "bmiResult": "underweight",
+      "bmi": 0.09917355371900827,
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-15T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Dolll",
+      "lastName": "Jay",
+      "email": "ghsggs",
+      "mobile": "988888586",
+      "height": 6.8,
+      "weight": 65,
+      "bmiResult": "underweight",
+      "bmi": 0.12975778546712805,
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Healthier Digestive System",
+        "sugar Creaving body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-17T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "height": "",
+      "weight": "",
+      "bmiResult": "",
+      "bmi": "",
+      "gender": "",
+      "requireTrainer": "",
+      "package": "Yearly",
+      "important": "",
+      "haveGymBefore": "",
+      "enquiryDate": "",
+      "id": 4
+    },
+    {
+      "firstName": "Chandrashekhar",
+      "lastName": "Sn",
+      "email": "chandruspr4gamail.com",
+      "mobile": "972855582",
+      "height": 254,
+      "weight": 65,
+      "bmiResult": "underweight",
+      "bmi": 0.00395250790501581,
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-08-09T18:30:00.000Z",
+      "id": 5
+    }
+  ]
+}
